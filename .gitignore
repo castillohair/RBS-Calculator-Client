@@ -1,0 +1,5 @@
+build
+dist
+RBS_Calculator_Client.egg-info
+*.pyc
+*.ipynb_checkpoints
